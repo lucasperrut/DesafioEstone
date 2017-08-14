@@ -1,0 +1,44 @@
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\obj\Debug\Stone.Infra.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\bin\Debug\Stone.Infra.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\bin\Debug\Stone.Infra.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\obj\Debug\Stone.Infra.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Infra\obj\Debug\Stone.Infra.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\obj\Debug\Stone.Infra.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\obj\Debug\Stone.Infra.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\obj\Debug\Stone.Infra.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\bin\Debug\Stone.Infra.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\bin\Debug\Stone.Infra.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Infra\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Stone.Infra.dll.config
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Stone.Infra.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Stone.Infra.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.xml
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\obj\Debug\Stone.Infra.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\obj\Debug\Stone.Infra.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Infra\obj\Debug\Stone.Infra.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Stone.Infra.dll.config
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Stone.Infra.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Stone.Infra.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Stone.Common.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Stone.Common.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.xml
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\obj\Debug\Stone.Infra.csprojResolveAssemblyReference.cache
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\obj\Debug\Stone.Infra.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Infra\obj\Debug\Stone.Infra.pdb

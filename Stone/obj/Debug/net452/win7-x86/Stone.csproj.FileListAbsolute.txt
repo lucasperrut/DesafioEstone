@@ -1,0 +1,580 @@
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.deps.json
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.json
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.dev.json
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\obj\Debug\net452\win7-x86\Stone.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\obj\Debug\net452\win7-x86\Stone.csproj.Stone.exe.config
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\obj\Debug\net452\win7-x86\Stone.AssemblyInfo.cs
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.exe.config
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.exe
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Autofac.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Autofac.Extensions.DependencyInjection.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.AttributedModel.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.Convention.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.Hosting.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.Runtime.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.TypedParts.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\NuGet.Frameworks.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Remotion.Linq.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Interactive.Async.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Application.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Common.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Domain.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Infra.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Application.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Domain.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Infra.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Common.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\obj\Debug\net452\win7-x86\Stone.exe
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone\obj\Debug\net452\win7-x86\Stone.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.exe.config
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.deps.json
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.json
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.dev.json
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.exe
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Autofac.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Autofac.Extensions.DependencyInjection.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.AttributedModel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.Convention.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.Hosting.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.Runtime.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Composition.TypedParts.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\NuGet.Frameworks.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Remotion.Linq.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Interactive.Async.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Application.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Domain.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Infra.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Application.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Domain.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Infra.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\bin\Debug\net452\win7-x86\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\obj\Debug\net452\win7-x86\Stone.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\obj\Debug\net452\win7-x86\Stone.csproj.Stone.exe.config
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\obj\Debug\net452\win7-x86\Stone.AssemblyInfo.cs
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\obj\Debug\net452\win7-x86\Stone.exe
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone\obj\Debug\net452\win7-x86\Stone.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.exe.config
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.deps.json
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.json
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.dev.json
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.exe
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Autofac.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Autofac.Extensions.DependencyInjection.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\EntityFramework.SqlServer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\EntityFramework.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.AspNetCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.Core.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.MemoryStorage.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.SqlServer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.AttributedModel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.Convention.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.Hosting.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.Runtime.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.TypedParts.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Owin.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\NuGet.Frameworks.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Owin.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Remotion.Linq.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Interactive.Async.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.Core.resources.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Application.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Domain.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Infra.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Application.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Domain.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Infra.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Infra.dll.config
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.csproj.Stone.exe.config
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.Resources.StoneResources.resources
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.csproj.GenerateResource.Cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.AssemblyInfo.cs
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.exe
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.exe.config
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.deps.json
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.json
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.runtimeconfig.dev.json
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.exe
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\libuv.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Autofac.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Autofac.Extensions.DependencyInjection.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\EntityFramework.SqlServer.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\EntityFramework.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.AspNetCore.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.Core.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.MemoryStorage.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.SqlServer.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.Agent.Intercept.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.DependencyCollector.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Authorization.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cors.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Localization.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.AttributedModel.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.Convention.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.Hosting.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.Runtime.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Composition.TypedParts.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Console.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.ObjectPool.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.Primitives.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Extensions.WebEncoders.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Net.Http.Headers.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Owin.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\dotnet-aspnet-codegenerator-design.exe
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Newtonsoft.Json.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\NuGet.Frameworks.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Owin.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Remotion.Linq.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Buffers.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Collections.Immutable.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.Primitives.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.ComponentModel.TypeConverter.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Interactive.Async.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Numerics.Vectors.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Reflection.Metadata.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Text.Encodings.Web.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Hangfire.Core.resources.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Application.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Common.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Domain.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Infra.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Application.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Domain.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Infra.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Infra.dll.config
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\bin\Debug\net452\win7-x86\Stone.Common.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.csprojResolveAssemblyReference.cache
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.csproj.Stone.exe.config
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.AssemblyInfo.cs
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.exe
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone\obj\Debug\net452\win7-x86\Stone.pdb

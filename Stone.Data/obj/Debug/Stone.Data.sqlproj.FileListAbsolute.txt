@@ -1,0 +1,5 @@
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Data\bin\Debug\Stone.Data.dacpac
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Data\bin\Debug\Stone.Data.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Data\bin\Debug\Stone.Data.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Data\obj\Debug\Stone.Data.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Data\obj\Debug\Stone.Data.pdb

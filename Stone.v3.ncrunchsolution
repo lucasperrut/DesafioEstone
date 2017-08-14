@@ -1,0 +1,15 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>False</AllowParallelTestExecution>
+    <MetricsExclusionList>
+      <Value>Stone.Domain.Tests\Stone.Domain.Tests.csproj</Value>
+      <Value>Stone.Application.Tests\Stone.Application.Tests.csproj</Value>
+      <Value>Stone.Tests\Stone.Tests.csproj</Value>
+      <Value>Stone.Infra.Tests\Stone.Infra.Tests.csproj</Value>
+      <Value>Stone.Common\Stone.Common.csproj</Value>
+      <Value>Providers\MongoProvider.cs:Stone.Infra\Stone.Infra.csproj</Value>
+      <Value>Controllers\ValuesController.cs:Stone\Stone.csproj</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+</SolutionConfiguration>

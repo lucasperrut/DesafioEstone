@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Temperature]
+(
+	[ID] UNIQUEIDENTIFIER NOT NULL, 
+	[CityID] UNIQUEIDENTIFIER NOT NULL,
+    [Date] DATETIME NOT NULL, 
+    [Measure] VARCHAR(5) NOT NULL, 
+	CONSTRAINT [PK_Temperature] PRIMARY KEY ([ID]),
+    CONSTRAINT [FK_Temperatures_City] FOREIGN KEY ([CityID]) REFERENCES [dbo].[City]([ID]) ON DELETE CASCADE
+)

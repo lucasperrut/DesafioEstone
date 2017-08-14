@@ -1,0 +1,42 @@
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\bin\Debug\Stone.Application.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\bin\Debug\Stone.Application.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\bin\Debug\Stone.Domain.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\bin\Debug\Stone.Domain.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\obj\Debug\Stone.Application.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\obj\Debug\Stone.Application.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Application\obj\Debug\Stone.Application.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\bin\Debug\Stone.Application.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\bin\Debug\Stone.Application.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\bin\Debug\Stone.Domain.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\bin\Debug\Stone.Domain.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\obj\Debug\Stone.Application.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\obj\Debug\Stone.Application.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Application\obj\Debug\Stone.Application.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Stone.Application.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Stone.Application.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Stone.Domain.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Stone.Domain.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Stone.Application.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Stone.Application.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Stone.Common.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Stone.Domain.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Stone.Common.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Stone.Domain.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.csprojResolveAssemblyReference.cache
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.Resources.StoneApplicationResources.resources
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Application\obj\Debug\Stone.Application.csproj.GenerateResource.Cache

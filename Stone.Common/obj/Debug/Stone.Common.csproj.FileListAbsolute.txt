@@ -1,0 +1,19 @@
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Common\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Common\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Common\obj\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Documents\Visual Studio 2017\Projects\New folder\Stone\Stone.Common\obj\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Common\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Common\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Common\obj\Debug\Stone.Common.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Common\obj\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone\Stone.Common\obj\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Common\bin\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Common\bin\Debug\Stone.Common.pdb
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Common\obj\Debug\Stone.Common.csprojResolveAssemblyReference.cache
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Common\obj\Debug\Stone.Common.dll
+C:\Users\lucas.perrut\Desktop\Stone\Stone entity framework\Stone.Common\obj\Debug\Stone.Common.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Common\bin\Debug\Stone.Common.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Common\bin\Debug\Stone.Common.pdb
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Common\obj\Debug\Stone.Common.csprojResolveAssemblyReference.cache
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Common\obj\Debug\Stone.Common.dll
+C:\Users\joao.bosco\Desktop\Stone entity framework\Stone.Common\obj\Debug\Stone.Common.pdb
